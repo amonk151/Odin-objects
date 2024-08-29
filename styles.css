@@ -1,0 +1,24 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 1200px;
+    margin: 0 auto 0 auto;
+    justify-content: space-around;
+}
+
+.book {
+    width: auto;
+    display: block;
+    margin: 0;
+    text-align: center;
+}
+#add {
+    width: 200px;
+    height: 100px;
+    margin: 0 auto 50px auto;
+    display: block;
+}
+button {
+    margin: 5px;
+}
